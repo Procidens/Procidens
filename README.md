@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning advance discord.js
-- 🌱 I’m currently learning advance javascript
+- 🔭 I’m currently working on finding a way to get customers.
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate with a popular youtuber.
-- 🤔 I’m looking for help with learning advance javascript
-- 💬 Ask me about me: TheGreenMilko#9143
-- 📫 How to reach me: ^^
-- 😄 Pronouns: GreenMilk, Milko
+- 🤔 I’m looking for help with learning python
+- 📫 How to reach me: Procidens#2907
+- 😄 Pronouns: Falling, Pro, Cidens
 - ⚡ Fun fact: I started programming at 12!
 
 
